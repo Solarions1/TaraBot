@@ -1,0 +1,35 @@
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Monday, 16th January 2023, 15:24 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-16 15:24:13 [WARN] Message logging is disabled due to insufficient database
+2023-01-16 15:27:10 [WARN] Failed to update message author entity in ticket archive
+2023-01-16 15:27:10 [ERROR] Error
+    at Database.<anonymous> (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\sequelize.js:314:28
+    at async SQLiteQueryInterface.insert (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:2432:35)
+    at async UserEntity.create (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:1344:12)
+    at async UserEntity.findOrCreate (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:1404:25)
+    at async TicketArchives.updateMember (C:\Users\Manuel\Downloads\main\src\modules\tickets\archives.js:127:20)
+2023-01-16 15:27:34 [WARN] Failed to update message author entity in ticket archive
+2023-01-16 15:27:34 [ERROR] Error
+    at Database.<anonymous> (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\sequelize.js:314:28
+    at async SQLiteQueryInterface.insert (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:2432:35)
+    at async UserEntity.create (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:1344:12)
+    at async UserEntity.findOrCreate (C:\Users\Manuel\Downloads\main\node_modules\sequelize\lib\model.js:1404:25)
+    at async TicketArchives.updateMember (C:\Users\Manuel\Downloads\main\src\modules\tickets\archives.js:127:20)

@@ -1,0 +1,39 @@
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Monday, 16th January 2023, 15:24 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-16 15:24:12 [INFO] Using SQLite storage
+2023-01-16 15:24:13 [SUCCESS] Connected to database successfully
+2023-01-16 15:24:14 [INFO] Connecting to Discord API...
+2023-01-16 15:24:15 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-16 15:24:15 [INFO] Loading commands
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "add" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "close" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "help" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "new" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-16 15:24:15 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-16 15:24:16 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-16 15:24:16 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-16 15:24:16 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-16 15:24:16 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-16 15:24:16 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-16 15:24:16 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-16 15:25:33 [INFO] (COMMANDS) Executing "help" command (invoked by Manu.#1917)
+2023-01-16 15:25:47 [INFO] (COMMANDS) Executing "settings" command (invoked by Manu.#1917)
+2023-01-16 15:25:52 [INFO] (COMMANDS) Executing "new" command (invoked by Manu.#1917)
+2023-01-16 15:25:53 [INFO] Manu.#1917 created a new ticket in "EliseBot"
+2023-01-16 15:26:39 [INFO] (COMMANDS) Executing "panel" command (invoked by Manu.#1917)
+2023-01-16 15:26:40 [INFO] Manu.#1917 has created a new button panel
+2023-01-16 15:27:05 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+2023-01-16 15:27:10 [INFO] Manu.#1917 closed a ticket (1064641663701618688)
+2023-01-16 15:27:21 [INFO] Manu.#1917 created a new ticket in "EliseBot"
+2023-01-16 15:27:31 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+2023-01-16 15:27:35 [INFO] Manu.#1917 closed a ticket (1064642031416266873)

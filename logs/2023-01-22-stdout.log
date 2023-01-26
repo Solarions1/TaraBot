@@ -1,0 +1,31 @@
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 22nd January 2023, 20:48 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-22 20:48:55 [INFO] Using SQLite storage
+2023-01-22 20:48:56 [SUCCESS] Connected to database successfully
+2023-01-22 20:48:59 [INFO] Connecting to Discord API...
+2023-01-22 20:49:00 [SUCCESS] Connected to Discord as "TaraTicket#1880"
+2023-01-22 20:49:00 [INFO] Loading commands
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "add" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "close" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "help" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "new" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-22 20:49:00 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-22 20:49:00 [SUCCESS] Published 12 commands to "✧El Culto De Yoda✧"
+2023-01-22 21:00:55 [INFO] Manu.#1917 created a new ticket in "✧El Culto De Yoda✧"
+2023-01-22 21:01:09 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+2023-01-22 21:01:15 [INFO] Manu.#1917 closed a ticket (1066900314285932615)

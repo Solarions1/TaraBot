@@ -1,0 +1,170 @@
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:19 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:19:52 [WARN] Message logging is disabled due to insufficient database
+2023-01-15 17:26:16 [WARN] An error occurred whilst executing the panel command
+2023-01-15 17:26:16 [ERROR] DiscordAPIError: Invalid Form Body
+components[0].components[0].options: Must be between 1 and 25 in length.
+    at RequestHandler.execute (C:\Users\eartharoidel\Downloads\bot-main\node_modules\discord.js\src\rest\RequestHandler.js:350:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RequestHandler.push (C:\Users\eartharoidel\Downloads\bot-main\node_modules\discord.js\src\rest\RequestHandler.js:51:14)
+    at async TextChannel.send (C:\Users\eartharoidel\Downloads\bot-main\node_modules\discord.js\src\structures\interfaces\TextBasedChannel.js:176:15)
+    at async PanelCommand.execute (C:\Users\eartharoidel\Downloads\bot-main\src\commands\panel.js:180:5)
+    at async CommandManager.handle (C:\Users\eartharoidel\Downloads\bot-main\src\modules\commands\manager.js:198:4)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:37 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:37:32 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:39 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:39:52 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:42 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:42:38 [WARN] Message logging is disabled due to insufficient database
+2023-01-15 17:42:59 [WARN] Failed to update message author entity in ticket archive
+2023-01-15 17:42:59 [ERROR] Error
+    at Database.<anonymous> (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\sequelize.js:314:28
+    at async SQLiteQueryInterface.insert (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\model.js:2432:35)
+    at async UserEntity.create (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\model.js:1344:12)
+    at async UserEntity.findOrCreate (C:\Users\eartharoidel\Downloads\bot-main\node_modules\sequelize\lib\model.js:1404:25)
+    at async TicketArchives.updateMember (C:\Users\eartharoidel\Downloads\bot-main\src\modules\tickets\archives.js:127:20)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:44 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:44:29 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:45 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:45:22 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:47 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:47:38 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:02 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:02:25 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:05 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:05:12 [WARN] Message logging is disabled due to insufficient database
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:07 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:07:16 [WARN] Message logging is disabled due to insufficient database
+2023-01-15 18:07:17 [WARN] An error occurred whilst loading an internal command
+2023-01-15 18:07:17 [ERROR] C:\Users\Manuel\Downloads\bot-main\src\commands\close.js:62
+							.setFooter(""Ticket by Manu"", interaction.guild.iconURL())
+							           ^^
+
+SyntaxError: missing ) after argument list
+    at internalCompileFunction (node:internal/vm:74:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1141:20)
+    at Module._compile (node:internal/modules/cjs/loader:1182:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at CommandManager.load (C:\Users\Manuel\Downloads\bot-main\src\modules\commands\manager.js:38:12)
+    at ReadyEventListener.execute (C:\Users\Manuel\Downloads\bot-main\src\listeners\ready.js:15:24)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:07 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:07:55 [WARN] Message logging is disabled due to insufficient database
+2023-01-15 18:08:15 [WARN] Failed to update message author entity in ticket archive
+2023-01-15 18:08:15 [ERROR] Error
+    at Database.<anonymous> (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:185:27)
+    at C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:50
+    at new Promise (<anonymous>)
+    at Query.run (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\dialects\sqlite\query.js:183:12)
+    at C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\sequelize.js:314:28
+    at async SQLiteQueryInterface.insert (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async model.save (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\model.js:2432:35)
+    at async UserEntity.create (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\model.js:1344:12)
+    at async UserEntity.findOrCreate (C:\Users\Manuel\Downloads\bot-main\node_modules\sequelize\lib\model.js:1404:25)
+    at async TicketArchives.updateMember (C:\Users\Manuel\Downloads\bot-main\src\modules\tickets\archives.js:127:20)

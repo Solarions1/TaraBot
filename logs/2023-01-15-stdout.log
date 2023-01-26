@@ -1,0 +1,328 @@
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:19 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:19:52 [INFO] Using SQLite storage
+2023-01-15 17:19:52 [SUCCESS] Connected to database successfully
+2023-01-15 17:19:54 [INFO] Connecting to Discord API...
+2023-01-15 17:19:54 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:19:54 [INFO] Loading commands
+2023-01-15 17:19:54 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:19:55 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:19:55 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:23:15 [INFO] (COMMANDS) Executing "help" command (invoked by Manu.#1917)
+2023-01-15 17:23:26 [INFO] (COMMANDS) Executing "new" command (invoked by Manu.#1917)
+2023-01-15 17:24:54 [INFO] (COMMANDS) Executing "settings" command (invoked by Manu.#1917)
+2023-01-15 17:25:05 [INFO] (COMMANDS) Executing "new" command (invoked by Manu.#1917)
+2023-01-15 17:25:05 [INFO] Manu.#1917 created a new ticket in "EliseBot"
+2023-01-15 17:26:15 [INFO] (COMMANDS) Executing "panel" command (invoked by Manu.#1917)
+2023-01-15 17:35:11 [INFO] (COMMANDS) Executing "settings" command (invoked by Manu.#1917)
+2023-01-15 17:35:46 [INFO] (COMMANDS) Executing "settings" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:37 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:37:32 [INFO] Using SQLite storage
+2023-01-15 17:37:32 [SUCCESS] Connected to database successfully
+2023-01-15 17:37:33 [INFO] Connecting to Discord API...
+2023-01-15 17:37:33 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:37:33 [INFO] Loading commands
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:37:33 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:37:34 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:37:41 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:39 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:39:52 [INFO] Using SQLite storage
+2023-01-15 17:39:52 [SUCCESS] Connected to database successfully
+2023-01-15 17:39:52 [INFO] Connecting to Discord API...
+2023-01-15 17:39:53 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:39:53 [INFO] Loading commands
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:39:53 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:39:53 [SUCCESS] Published 12 commands to "EliseBot"
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:42 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:42:38 [INFO] Using SQLite storage
+2023-01-15 17:42:38 [SUCCESS] Connected to database successfully
+2023-01-15 17:42:39 [INFO] Connecting to Discord API...
+2023-01-15 17:42:40 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:42:40 [INFO] Loading commands
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:42:40 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:42:40 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:42:47 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+2023-01-15 17:42:59 [INFO] Manu.#1917 closed a ticket (1064309277210198107)
+2023-01-15 17:43:17 [INFO] (COMMANDS) Executing "new" command (invoked by Manu.#1917)
+2023-01-15 17:43:18 [INFO] Manu.#1917 created a new ticket in "EliseBot"
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:44 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:44:29 [INFO] Using SQLite storage
+2023-01-15 17:44:29 [SUCCESS] Connected to database successfully
+2023-01-15 17:44:30 [INFO] Connecting to Discord API...
+2023-01-15 17:44:30 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:44:30 [INFO] Loading commands
+2023-01-15 17:44:30 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:44:30 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:44:30 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:44:31 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:44:31 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:44:37 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:45 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:45:22 [INFO] Using SQLite storage
+2023-01-15 17:45:22 [SUCCESS] Connected to database successfully
+2023-01-15 17:45:22 [INFO] Connecting to Discord API...
+2023-01-15 17:45:23 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:45:23 [INFO] Loading commands
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:45:23 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:45:24 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:45:26 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by Manu (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 17:47 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 17:47:38 [INFO] Using SQLite storage
+2023-01-15 17:47:38 [SUCCESS] Connected to database successfully
+2023-01-15 17:47:39 [INFO] Connecting to Discord API...
+2023-01-15 17:47:39 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 17:47:39 [INFO] Loading commands
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 17:47:39 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 17:47:40 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 17:47:42 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:02 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:02:25 [INFO] Using SQLite storage
+2023-01-15 18:02:25 [SUCCESS] Connected to database successfully
+2023-01-15 18:02:25 [INFO] Connecting to Discord API...
+2023-01-15 18:02:26 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 18:02:26 [INFO] Loading commands
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 18:02:26 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 18:02:26 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 18:02:33 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:05 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:05:12 [INFO] Using SQLite storage
+2023-01-15 18:05:12 [SUCCESS] Connected to database successfully
+2023-01-15 18:05:13 [INFO] Connecting to Discord API...
+2023-01-15 18:05:13 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 18:05:13 [INFO] Loading commands
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 18:05:13 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 18:05:14 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 18:05:14 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 18:05:14 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 18:05:14 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 18:05:14 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 18:05:14 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 18:05:16 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:07 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:07:15 [INFO] Using SQLite storage
+2023-01-15 18:07:16 [SUCCESS] Connected to database successfully
+2023-01-15 18:07:16 [INFO] Connecting to Discord API...
+2023-01-15 18:07:17 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 18:07:17 [INFO] Loading commands
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 18:07:17 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 18:07:17 [SUCCESS] Published 11 commands to "EliseBot"
+
+    
+<-<-<================================================================================>->->
+    Logging by leekslazylogger v3.0.2 by eartharoid (leeks.js.org/logger)
+    Discord Tickets by Manu (Node v18.13.0 on 'Windows')
+    Sunday, 15th January 2023, 18:07 PM (America/Panama) -->
+    Time format: 'YYYY-MM-DD HH:mm:ss'
+<-<-<================================================================================>->->
+
+
+2023-01-15 18:07:55 [INFO] Using SQLite storage
+2023-01-15 18:07:55 [SUCCESS] Connected to database successfully
+2023-01-15 18:07:56 [INFO] Connecting to Discord API...
+2023-01-15 18:07:56 [SUCCESS] Connected to Discord as "TarkaV1#1880"
+2023-01-15 18:07:56 [INFO] Loading commands
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "add" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "blacklist" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "close" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "help" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "new" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "panel" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "remove" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "settings" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "stats" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "survey" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "tag" command
+2023-01-15 18:07:56 [INFO] (COMMANDS) Loaded "topic" command
+2023-01-15 18:07:57 [SUCCESS] Published 12 commands to "EliseBot"
+2023-01-15 18:08:07 [INFO] (COMMANDS) Executing "close" command (invoked by Manu.#1917)
+2023-01-15 18:08:15 [INFO] Manu.#1917 closed a ticket (1064313857994141696)
+2023-01-15 18:08:28 [INFO] (COMMANDS) Executing "help" command (invoked by Manu.#1917)
